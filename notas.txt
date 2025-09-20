@@ -2,3 +2,4 @@
 Ahora agregue otra linea 
 
 Trabajo en nueva-rama
+Hola Git, línea modificada en rama-conflicto :D
